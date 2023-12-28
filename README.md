@@ -1,10 +1,10 @@
 # SportsEngine
 
-![Logo](https://github.com/bit-fashion/SportsEngine/tree/master/Document/Vulkan Logo.png)
+![Logo](https://github.com/bit-fashion/SportsEngine/blob/master/Document/Vulkan%20Logo.png)
 
 本仓库用于学习 Vulkan 图形 API 所创建，该仓库会跟着视频教程同步更新。本教程的最终目标是帮助大家入门 Vulkan 学习 Vulkan。
 
-![封面](https://github.com/bit-fashion/SportsEngine/tree/master/Document/视频封面（1420x944）.png)
+![封面](https://github.com/bit-fashion/SportsEngine/blob/master/Document/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2%EF%BC%881420x944%EF%BC%89.png)
 
 # 仓库介绍
 
